@@ -44,3 +44,4 @@ Selection: Sampled across three distinct timeframes:
 
 ---
 *Author's Note: This is a practical project completed to demonstrate proficiency in basic bioinformatics workflows for a Master's degree application.*
+
